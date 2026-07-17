@@ -1,0 +1,85 @@
+aid: general-catalyst
+name: General Catalyst
+description: >-
+  General Catalyst is a global venture capital and investment firm founded in
+  2000 by Joel Cutler and David Fialkow, headquartered in Cambridge,
+  Massachusetts, with offices in San Francisco, New York, London, Berlin,
+  Bengaluru, and Washington, D.C. The firm invests across seed, venture, and
+  growth stages and manages more than $43 billion in assets under management
+  (as of December 2024), backing 900+ portfolio companies. General Catalyst
+  operates through distinct capital vehicles and initiatives — Ignition/Seed
+  for early-stage, Endurance/Grow for growth, Creation for company building,
+  and a dedicated Health Assurance practice for healthcare transformation. Its
+  current "Global Resilience" thesis, led by CEO Hemant Taneja, concentrates on
+  the critical systems that underpin modern society — healthcare, energy,
+  defense, and AI — alongside an "unscaling" thesis that uses data and AI to
+  personalize core societal services. Notable investments include Airbnb,
+  Stripe, Anthropic, Canva, HubSpot, Ramp, Anduril, Applied Intuition, Samsara,
+  Mistral, Helsing, Hippocratic AI, and Mercor.
+image: https://logo.clearbit.com/generalcatalyst.com
+x-type: venture-capital
+x-category: Venture Capital
+tags:
+- Venture Capital
+- Seed
+- Venture
+- Growth
+- Artificial Intelligence
+- Healthcare
+- Fintech
+- Defense
+- Enterprise
+- Consumer
+- North America
+- Europe
+created: '2026-07-17'
+modified: '2026-07-17'
+specificationVersion: '0.20'
+apis: []
+common:
+- type: Website
+  url: https://www.generalcatalyst.com/
+- type: Portfolio
+  url: https://www.generalcatalyst.com/portfolio
+- type: Portfolio
+  url: portfolio/general-catalyst-portfolio.yml
+- type: Team
+  url: https://www.generalcatalyst.com/team
+- type: Team
+  url: team/general-catalyst-team.yml
+- type: InvestmentThesis
+  url: https://www.generalcatalyst.com/transformations
+- type: News
+  url: https://www.generalcatalyst.com/stories
+- type: Jobs
+  url: https://jobs.generalcatalyst.com/jobs
+- type: Crunchbase
+  url: https://www.crunchbase.com/organization/general-catalyst-partners
+- type: LinkedIn
+  url: https://www.linkedin.com/company/general-catalyst
+- type: Twitter
+  url: https://twitter.com/generalcatalyst
+- type: Features
+  data:
+  - 'Stage: Seed, Venture, Growth'
+  - 'Sectors: AI, healthcare, energy & infrastructure, defense & government, fintech, enterprise, consumer'
+  - 'Geography: North America, Europe, India'
+  - 'AUM: $43B+ (as of December 2024, self-reported)'
+  - 'Portfolio: 900+ companies'
+  - 'Founded: 2000'
+  - 'Founders: Joel Cutler, David Fialkow'
+  - 'CEO: Hemant Taneja'
+  - 'HQ: Cambridge, Massachusetts'
+  - 'Offices: Cambridge, San Francisco, New York, London, Berlin, Bengaluru, Washington D.C.'
+  sources:
+  - https://www.generalcatalyst.com/
+  - https://en.wikipedia.org/wiki/General_Catalyst
+  updated: '2026-07-17'
+maintainers:
+- FN: Kin Lane
+  email: info@apievangelist.com
+  url: https://apievangelist.com
+- FN: APIs.json
+  url: http://apisjson.org
+- FN: General Catalyst
+  url: https://www.generalcatalyst.com/
