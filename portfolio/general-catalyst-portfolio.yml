@@ -2,143 +2,117 @@ generated: '2026-07-17'
 method: searched
 source: https://www.generalcatalyst.com/portfolio
 summary:
-  portfolio_total: 112
-  in_network: 23
-  api_providers: 13
-  missing: 89
+  portfolio_total: 597
+  in_network: 130
+  api_providers: 62
+  missing: 467
   stubs_created: 0
 companies:
 - name: 1001 AI
   sector: ai
   status: active
   source: https://www.generalcatalyst.com/portfolio
+  slug: 1001-ai
   in_network: true
   is_api_provider: false
-  suggested_slug: 1001-ai
-  stub_created: true
-  slug: 1001-ai
-  matched_by: stub
+  matched_by: name-slug
 - name: '222'
   sector: consumer
   status: active
   source: https://www.generalcatalyst.com/portfolio
+  slug: '222'
   in_network: true
   is_api_provider: false
-  suggested_slug: '222'
-  stub_created: true
-  slug: '222'
-  matched_by: stub
+  matched_by: name-slug
 - name: Aaru
   sector: ai
   status: active
   source: https://www.generalcatalyst.com/portfolio
+  slug: aaru
   in_network: true
   is_api_provider: false
-  suggested_slug: aaru
-  stub_created: true
-  slug: aaru
-  matched_by: stub
+  matched_by: name-slug
 - name: Aatmunn
   sector: enterprise
   status: active
   source: https://www.generalcatalyst.com/portfolio
+  slug: aatmunn
   in_network: true
   is_api_provider: false
-  suggested_slug: aatmunn
-  stub_created: true
-  slug: aatmunn
-  matched_by: stub
+  matched_by: name-slug
 - name: Accordance
   sector: ai
   status: active
   source: https://www.generalcatalyst.com/portfolio
+  slug: accordance
   in_network: true
   is_api_provider: false
-  suggested_slug: accordance
-  stub_created: true
-  slug: accordance
-  matched_by: stub
+  matched_by: name-slug
 - name: Accrual
   sector: fintech
   status: active
   source: https://www.generalcatalyst.com/portfolio
+  slug: accrual
   in_network: true
   is_api_provider: false
-  suggested_slug: accrual
-  stub_created: true
-  slug: accrual
-  matched_by: stub
+  matched_by: name-slug
 - name: Adonis
   sector: healthcare
   status: active
   source: https://www.generalcatalyst.com/portfolio
+  slug: adonis
   in_network: true
   is_api_provider: false
-  suggested_slug: adonis
-  stub_created: true
-  slug: adonis
-  matched_by: stub
+  matched_by: name-slug
 - name: Afori
   sector: fintech
   status: active
   source: https://www.generalcatalyst.com/portfolio
+  slug: afori
   in_network: true
   is_api_provider: false
-  suggested_slug: afori
-  stub_created: true
-  slug: afori
-  matched_by: stub
+  matched_by: name-slug
 - name: AfterHour
   sector: consumer
   status: active
   source: https://www.generalcatalyst.com/portfolio
+  slug: afterhour
   in_network: true
   is_api_provider: false
-  suggested_slug: afterhour
-  stub_created: true
-  slug: afterhour
-  matched_by: stub
+  matched_by: name-slug
 - name: AgentMail
   sector: ai
   status: acquired
   source: https://www.generalcatalyst.com/portfolio
+  slug: agentmail
   in_network: true
   is_api_provider: false
-  suggested_slug: agentmail
-  stub_created: true
-  slug: agentmail
-  matched_by: stub
+  matched_by: name-slug
 - name: Agora
   sector: fintech
   status: active
   source: https://www.generalcatalyst.com/portfolio
+  slug: agora
   in_network: true
   is_api_provider: false
-  suggested_slug: agora
-  stub_created: true
-  slug: agora
-  matched_by: stub
+  matched_by: name-slug
 - name: Aidoc
   url: https://www.aidoc.com
   sector: healthcare
   status: active
   source: https://www.generalcatalyst.com/portfolio
+  slug: aidoc
   in_network: true
   is_api_provider: false
-  suggested_slug: aidoc
-  stub_created: true
-  slug: aidoc
-  matched_by: stub
+  matched_by: name-slug
 - name: AIM
   sector: ai
   status: active
   source: https://www.generalcatalyst.com/portfolio
+  slug: aim
   in_network: true
   is_api_provider: false
-  suggested_slug: aim
-  stub_created: true
-  slug: aim
-  matched_by: stub
+  matched_by: name-slug
 - name: Airbnb
   url: https://www.airbnb.com
   sector: consumer
@@ -161,12 +135,10 @@ companies:
   sector: healthcare
   status: active
   source: https://www.generalcatalyst.com/portfolio
+  slug: alinea-health
   in_network: true
   is_api_provider: false
-  suggested_slug: alinea-health
-  stub_created: true
-  slug: alinea-health
-  matched_by: stub
+  matched_by: name-slug
 - name: Allego
   url: https://www.allego.com
   sector: enterprise
@@ -180,53 +152,48 @@ companies:
   sector: healthcare
   status: active
   source: https://www.generalcatalyst.com/portfolio
+  slug: almanac
   in_network: true
   is_api_provider: false
-  suggested_slug: almanac
-  stub_created: true
-  slug: almanac
-  matched_by: stub
+  matched_by: name-slug
 - name: Almanac Labs
   sector: enterprise
   status: active
   source: https://www.generalcatalyst.com/portfolio
+  slug: almanac-labs
   in_network: true
   is_api_provider: false
-  suggested_slug: almanac-labs
-  stub_created: true
-  slug: almanac-labs
-  matched_by: stub
+  matched_by: name-slug
+- name: Almanac Leie1
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: almanac-leie1
 - name: Alpha-9 Oncology
   sector: healthcare
   status: active
   source: https://www.generalcatalyst.com/portfolio
+  slug: alpha-9-oncology
   in_network: true
   is_api_provider: false
-  suggested_slug: alpha-9-oncology
-  stub_created: true
-  slug: alpha-9-oncology
-  matched_by: stub
+  matched_by: name-slug
 - name: Alsym Energy
   sector: energy-infrastructure
   status: active
   source: https://www.generalcatalyst.com/portfolio
+  slug: alsym-energy
   in_network: true
   is_api_provider: false
-  suggested_slug: alsym-energy
-  stub_created: true
-  slug: alsym-energy
-  matched_by: stub
+  matched_by: name-slug
 - name: Altos Labs
   url: https://www.altoslabs.com
   sector: healthcare
   status: active
   source: https://www.generalcatalyst.com/portfolio
+  slug: altos-labs
   in_network: true
   is_api_provider: false
-  suggested_slug: altos-labs
-  stub_created: true
-  slug: altos-labs
-  matched_by: stub
+  matched_by: name-slug
 - name: Alyce
   sector: enterprise
   status: active
@@ -239,47 +206,43 @@ companies:
   sector: ai
   status: active
   source: https://www.generalcatalyst.com/portfolio
+  slug: amigo
   in_network: true
   is_api_provider: false
-  suggested_slug: amigo
-  stub_created: true
-  slug: amigo
-  matched_by: stub
+  matched_by: name-slug
 - name: Amperity
   url: https://www.amperity.com
   sector: enterprise
   status: active
   source: https://www.generalcatalyst.com/portfolio
+  slug: amperity
   in_network: true
   is_api_provider: false
-  suggested_slug: amperity
-  stub_created: true
-  slug: amperity
-  matched_by: stub
+  matched_by: name-slug
 - name: Amphiform
   sector: energy-infrastructure
   status: active
   source: https://www.generalcatalyst.com/portfolio
-  in_network: false
+  slug: amphiform
+  in_network: true
   is_api_provider: false
-  suggested_slug: amphiform
-  stub_created: false
+  matched_by: name-slug
 - name: Anagram
   sector: defense-government
   status: active
   source: https://www.generalcatalyst.com/portfolio
-  in_network: false
+  slug: anagram
+  in_network: true
   is_api_provider: false
-  suggested_slug: anagram
-  stub_created: false
+  matched_by: name-slug
 - name: Andesite
   sector: defense-government
   status: active
   source: https://www.generalcatalyst.com/portfolio
-  in_network: false
+  slug: andesite
+  in_network: true
   is_api_provider: false
-  suggested_slug: andesite
-  stub_created: false
+  matched_by: name-slug
 - name: Anduril
   url: https://www.anduril.com
   sector: defense-government
@@ -294,10 +257,10 @@ companies:
   sector: enterprise
   status: active
   source: https://www.generalcatalyst.com/portfolio
-  in_network: false
+  slug: anomali
+  in_network: true
   is_api_provider: false
-  suggested_slug: anomali
-  stub_created: false
+  matched_by: name-slug
 - name: Anthropic
   url: https://www.anthropic.com
   sector: ai
@@ -312,24 +275,27 @@ companies:
   sector: enterprise
   status: active
   source: https://www.generalcatalyst.com/portfolio
-  in_network: false
+  slug: apiiro
+  in_network: true
   is_api_provider: false
-  suggested_slug: apiiro
+  matched_by: name-slug
 - name: Applied Intuition
   url: https://www.appliedintuition.com
   sector: defense-government
   status: active
   source: https://www.generalcatalyst.com/portfolio
-  in_network: false
+  slug: applied-intuition
+  in_network: true
   is_api_provider: false
-  suggested_slug: applied-intuition
+  matched_by: name-slug
 - name: Arca
   sector: fintech
   status: active
   source: https://www.generalcatalyst.com/portfolio
-  in_network: false
+  slug: arca
+  in_network: true
   is_api_provider: false
-  suggested_slug: arca
+  matched_by: name-slug
 - name: Ares Interactive
   sector: consumer
   status: active
@@ -828,6 +794,177 @@ companies:
   in_network: false
   is_api_provider: false
   suggested_slug: castelion
+- name: Catalant
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: catalant
+- name: Cazoo
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: cazoo
+- name: Cellanome
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: cellanome
+- name: Celo
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: celo
+- name: Certifyos
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: certifyos
+- name: Chai Discovery
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: chai-discovery
+- name: Chainguard
+  source: https://www.generalcatalyst.com/portfolio
+  slug: chainguard
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Chai Shots
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: chai-shots
+- name: Chalk
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: chalk
+- name: Chamber Cardio
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: chamber-cardio
+- name: Channelengine
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: channelengine
+- name: Chariot Defense
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: chariot-defense
+- name: Charm Industrial
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: charm-industrial
+- name: Chief
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: chief
+- name: Cipherowl
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: cipherowl
+- name: Circle
+  source: https://www.generalcatalyst.com/portfolio
+  slug: circle
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Cityblock Health
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: cityblock-health
+- name: Citymall
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: citymall
+- name: Civic Roundtable
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: civic-roundtable
+- name: Clara
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: clara
+- name: Clarabridge
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: clarabridge
+- name: Claros
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: claros
+- name: Classdojo
+  source: https://www.generalcatalyst.com/portfolio
+  slug: classdojo
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Classpass
+  source: https://www.generalcatalyst.com/portfolio
+  slug: classpass
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Cloaked
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: cloaked
+- name: Club Feast
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: club-feast
+- name: Coachup
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: coachup
+- name: Coda
+  source: https://www.generalcatalyst.com/portfolio
+  slug: coda
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Cognition
+  source: https://www.generalcatalyst.com/portfolio
+  slug: cognition
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Cointracker
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: cointracker
+- name: Collaborative Robotics
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: collaborative-robotics
+- name: Collective
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: collective
+- name: Color
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: color
 - name: Commure
   url: https://www.commure.com
   sector: healthcare
@@ -837,6 +974,589 @@ companies:
   in_network: true
   is_api_provider: false
   matched_by: domain
+- name: Conntour
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: conntour
+- name: Constelli
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: constelli
+- name: Contentful
+  source: https://www.generalcatalyst.com/portfolio
+  slug: contentful
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Contrast Security
+  source: https://www.generalcatalyst.com/portfolio
+  slug: contrast-security
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Cookunity
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: cookunity
+- name: Coolant
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: coolant
+- name: Corelight
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: corelight
+- name: Corvia
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: corvia
+- name: Couchsurfing
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: couchsurfing
+- name: Coval
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: coval
+- name: Cover
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: cover
+- name: Cred
+  source: https://www.generalcatalyst.com/portfolio
+  slug: cred
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Crescendo
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: crescendo
+- name: Crossfit
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: crossfit
+- name: Ctrl Therapeutics
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: ctrl-therapeutics
+- name: Curai
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: curai
+- name: Dandy
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: dandy
+- name: Datalogix
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: datalogix
+- name: Datavolo
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: datavolo
+- name: Datto
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: datto
+- name: Deel
+  source: https://www.generalcatalyst.com/portfolio
+  slug: deel
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Deliveroo
+  source: https://www.generalcatalyst.com/portfolio
+  slug: deliveroo
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Demandware
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: demandware
+- name: Devoted
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: devoted
+- name: Dewpoint Therapeutics
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: dewpoint-therapeutics
+- name: Disclo
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: disclo
+- name: Discord
+  source: https://www.generalcatalyst.com/portfolio
+  slug: discord
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Doccla
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: doccla
+- name: Drift
+  source: https://www.generalcatalyst.com/portfolio
+  slug: drift
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Dryft
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: dryft
+- name: Dubsmash
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: dubsmash
+- name: Duckbill
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: duckbill
+- name: Dwelly
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: dwelly
+- name: Ecologi
+  source: https://www.generalcatalyst.com/portfolio
+  slug: ecologi
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Ecton
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: ecton
+- name: Eeki Foods
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: eeki-foods
+- name: Eightfold Ai
+  source: https://www.generalcatalyst.com/portfolio
+  slug: eightfold-ai
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Eight Sleep
+  source: https://www.generalcatalyst.com/portfolio
+  slug: eight-sleep
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Eikon
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: eikon
+- name: Eleanor Health
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: eleanor-health
+- name: Electio
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: electio
+- name: Elektrofi
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: elektrofi
+- name: Elemental
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: elemental
+- name: Elemy
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: elemy
+- name: Elephant Healthcare
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: elephant-healthcare
+- name: Elevate
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: elevate
+- name: Elysium
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: elysium
+- name: Emidat
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: emidat
+- name: Empathy
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: empathy
+- name: Encentive
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: encentive
+- name: Endo Health
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: endo-health
+- name: Engram
+  source: https://www.generalcatalyst.com/portfolio
+  slug: engram
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Enigma Analytics
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: enigma-analytics
+- name: Equip Health
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: equip-health
+- name: Espressive
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: espressive
+- name: Ethonai
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: ethonai
+- name: Ethos
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: ethos
+- name: Ethos 9q9rq
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: ethos-9q9rq
+- name: Eudia
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: eudia
+- name: Evermore
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: evermore
+- name: Evolv
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: evolv
+- name: Evvy
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: evvy
+- name: Examedi
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: examedi
+- name: Expanso
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: expanso
+- name: Eyebot
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: eyebot
+- name: Fabric
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: fabric
+- name: Factorial
+  source: https://www.generalcatalyst.com/portfolio
+  slug: factorial
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Farmart
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: farmart
+- name: Faro
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: faro
+- name: Fay
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: fay
+- name: Feedvisor
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: feedvisor
+- name: Felix
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: felix
+- name: Fever
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: fever
+- name: Fifteenth
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: fifteenth
+- name: Fig
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: fig
+- name: Figma
+  source: https://www.generalcatalyst.com/portfolio
+  slug: figma
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Finch
+  source: https://www.generalcatalyst.com/portfolio
+  slug: finch
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Finni Health
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: finni-health
+- name: Finom
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: finom
+- name: First Street
+  source: https://www.generalcatalyst.com/portfolio
+  slug: first-street
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Fitmint
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: fitmint
+- name: Fivetran
+  source: https://www.generalcatalyst.com/portfolio
+  slug: fivetran
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Flashfood
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: flashfood
+- name: Flexpa
+  source: https://www.generalcatalyst.com/portfolio
+  slug: flexpa
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Flowcarbon
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: flowcarbon
+- name: Forus
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: forus
+- name: Fourier
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: fourier
+- name: Fractyl Health
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: fractyl-health
+- name: Fragment
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: fragment
+- name: Fundbox
+  source: https://www.generalcatalyst.com/portfolio
+  slug: fundbox
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Future Trash
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: future-trash
+- name: General Intuition
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: general-intuition
+- name: Genial Care
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: genial-care
+- name: Geordie
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: geordie
+- name: Georgiamune
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: georgiamune
+- name: Getsupp
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: getsupp
+- name: Gitlab
+  source: https://www.generalcatalyst.com/portfolio
+  slug: gitlab
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Gitpod
+  source: https://www.generalcatalyst.com/portfolio
+  slug: gitpod
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Glean
+  source: https://www.generalcatalyst.com/portfolio
+  slug: glean
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Gooddata
+  source: https://www.generalcatalyst.com/portfolio
+  slug: gooddata
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Goodstack
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: goodstack
+- name: Graylark
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: graylark
+- name: Greenboard
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: greenboard
+- name: Grove Health
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: grove-health
+- name: Guardhat
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: guardhat
+- name: Guild Education
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: guild-education
+- name: Gusto
+  source: https://www.generalcatalyst.com/portfolio
+  slug: gusto
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Hai
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: hai
+- name: Hallow
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: hallow
+- name: Harbor Health
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: harbor-health
+- name: Harmonycares
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: harmonycares
+- name: Healthex
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: healthex
 - name: Helsing
   url: https://helsing.ai
   sector: defense-government
@@ -846,6 +1566,21 @@ companies:
   in_network: true
   is_api_provider: false
   matched_by: domain
+- name: Heyday
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: heyday
+- name: Highlight
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: highlight
+- name: Highway9
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: highway9
 - name: Hippocratic AI
   url: https://www.hippocraticai.com
   sector: healthcare
@@ -855,6 +1590,277 @@ companies:
   in_network: true
   is_api_provider: false
   matched_by: domain
+- name: Hiro
+  source: https://www.generalcatalyst.com/portfolio
+  slug: hiro
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Hive
+  source: https://www.generalcatalyst.com/portfolio
+  slug: hive
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Hometap
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: hometap
+- name: Homeward Health
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: homeward-health
+- name: Honest Company
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: honest-company
+- name: Housecall Pro
+  source: https://www.generalcatalyst.com/portfolio
+  slug: housecall-pro
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Hubspot
+  source: https://www.generalcatalyst.com/portfolio
+  slug: hubspot
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Human Behavior
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: human-behavior
+- name: Humans Anonymous
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: humans-anonymous
+- name: Huuva
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: huuva
+- name: Hyde
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: hyde
+- name: Hypersonica
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: hypersonica
+- name: Iceye
+  source: https://www.generalcatalyst.com/portfolio
+  slug: iceye
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Illumio
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: illumio
+- name: Im8
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: im8
+- name: Imprivata
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: imprivata
+- name: Indrive
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: indrive
+- name: Instacart
+  source: https://www.generalcatalyst.com/portfolio
+  slug: instacart
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Instride Health
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: instride-health
+- name: Integral
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: integral
+- name: Ionic
+  source: https://www.generalcatalyst.com/portfolio
+  slug: ionic
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Iru
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: iru
+- name: Ita Software
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: ita-software
+- name: Ixlayer
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: ixlayer
+- name: Jadu
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: jadu
+- name: Jasper Health
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: jasper-health
+- name: Jeh Aerospace
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: jeh-aerospace
+- name: Jet Com
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: jet-com
+- name: Jigso
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: jigso
+- name: Jobs at GC
+  source: https://www.generalcatalyst.com/portfolio
+  url: https://job-boards.greenhouse.io
+  slug: greenhouse
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Joy
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: joy
+- name: Judi Health
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: judi-health
+- name: Julia Computing
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: julia-computing
+- name: Jumptap
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: jumptap
+- name: Kano Computing
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: kano-computing
+- name: Karius
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: karius
+- name: Kavak
+  source: https://www.generalcatalyst.com/portfolio
+  slug: kavak
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Kayak
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: kayak
+- name: Kensho
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: kensho
+- name: Kernel
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: kernel
+- name: Kick
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: kick
+- name: Kite
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: kite
+- name: Kopperfield
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: kopperfield
+- name: Kouper Health
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: kouper-health
+- name: L2
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: l2
+- name: Lacework
+  source: https://www.generalcatalyst.com/portfolio
+  slug: lacework
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Ladder
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: ladder
+- name: Langdock
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: langdock
+- name: Latent Health
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: latent-health
+- name: Latent Space
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: latent-space
+- name: Launch
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: launch
+- name: Lean Technologies
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: lean-technologies
 - name: Legora
   url: https://legora.com
   sector: enterprise
@@ -864,6 +1870,151 @@ companies:
   in_network: true
   is_api_provider: false
   matched_by: domain
+- name: Lemonade
+  source: https://www.generalcatalyst.com/portfolio
+  slug: lemonade
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Lens Protocol
+  source: https://www.generalcatalyst.com/portfolio
+  slug: lens-protocol
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Leona
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: leona
+- name: Lessen
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: lessen
+- name: Lila Sciences
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: lila-sciences
+- name: Literati
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: literati
+- name: Livongo Health
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: livongo-health
+- name: Local Kitchens
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: local-kitchens
+- name: Localyze
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: localyze
+- name: Loci
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: loci
+- name: Logz Io
+  source: https://www.generalcatalyst.com/portfolio
+  slug: logz-io
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Long Lake
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: long-lake
+- name: Loom
+  source: https://www.generalcatalyst.com/portfolio
+  slug: loom
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Loop Health
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: loop-health
+- name: Lottie
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: lottie
+- name: Lucis
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: lucis
+- name: Luel
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: luel
+- name: Luma Ai
+  source: https://www.generalcatalyst.com/portfolio
+  slug: luma-ai
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Lume
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: lume
+- name: Luminai
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: luminai
+- name: Magma
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: magma
+- name: Mainspring Energy
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: mainspring-energy
+- name: Manas Ai
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: manas-ai
+- name: Maribel Health
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: maribel-health
+- name: Mark43
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: mark43
+- name: Martian
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: martian
+- name: Material Bank
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: material-bank
+- name: Maum Capital
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: maum-capital
 - name: Maven
   sector: healthcare
   status: active
@@ -872,6 +2023,62 @@ companies:
   in_network: true
   is_api_provider: true
   matched_by: name-slug
+- name: Maxion Therapeutics
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: maxion-therapeutics
+- name: Maze
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: maze
+- name: Md Ally
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: md-ally
+- name: Medeloop
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: medeloop
+- name: Medely
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: medely
+- name: Melio
+  source: https://www.generalcatalyst.com/portfolio
+  slug: melio
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Memora Health
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: memora-health
+- name: Menlo
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: menlo
+- name: Menlo Security
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: menlo-security
+- name: Meolaa
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: meolaa
+- name: Mercantile
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: mercantile
 - name: Mercor
   url: https://mercor.com
   sector: ai
@@ -881,6 +2088,534 @@ companies:
   in_network: true
   is_api_provider: false
   matched_by: domain
+- name: Mesh
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: mesh
+- name: Meter
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: meter
+- name: Method Security
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: method-security
+- name: Metronome
+  source: https://www.generalcatalyst.com/portfolio
+  slug: metronome
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Microverse
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: microverse
+- name: Mindstrong
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: mindstrong
+- name: Minio
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: minio
+- name: Mira
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: mira
+- name: Mirage
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: mirage
+- name: Mirvie
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: mirvie
+- name: Mission Control Games
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: mission-control-games
+- name: Mistral Ai
+  source: https://www.generalcatalyst.com/portfolio
+  slug: mistral-ai
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Mobilecoin
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: mobilecoin
+- name: Moda
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: moda
+- name: Modal
+  source: https://www.generalcatalyst.com/portfolio
+  slug: modal
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Modular
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: modular
+- name: Monzo
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: monzo
+- name: Moonvalley
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: moonvalley
+- name: Mosaic
+  source: https://www.generalcatalyst.com/portfolio
+  slug: mosaic
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: M Qube
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: m-qube
+- name: Multiverse
+  source: https://www.generalcatalyst.com/portfolio
+  slug: multiverse
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Nace Ai
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: nace-ai
+- name: Naroiq
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: naroiq
+- name: Native Security
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: native-security
+- name: Neko Health
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: neko-health
+- name: Neon
+  source: https://www.generalcatalyst.com/portfolio
+  slug: neon
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Newdays
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: newdays
+- name: Newstore
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: newstore
+- name: Nexus
+  source: https://www.generalcatalyst.com/portfolio
+  slug: nexus
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Nirvana Tech
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: nirvana-tech
+- name: Nolla Health
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: nolla-health
+- name: Nominal
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: nominal
+- name: Notco
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: notco
+- name: Nova Credit
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: nova-credit
+- name: Numerade
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: numerade
+- name: Numos
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: numos
+- name: Nurix
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: nurix
+- name: Oceans
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: oceans
+- name: Octane Ai
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: octane-ai
+- name: Odyssey
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: odyssey
+- name: Ogsystems
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: ogsystems
+- name: Olx
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: olx
+- name: Om1
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: om1
+- name: Onebrief
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: onebrief
+- name: Oneschema
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: oneschema
+- name: Openstore
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: openstore
+- name: Ophelia Health
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: ophelia-health
+- name: Orange Health
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: orange-health
+- name: Oratomic
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: oratomic
+- name: Orchard Robotics
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: orchard-robotics
+- name: Origin
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: origin
+- name: Osana
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: osana
+- name: Oscar
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: oscar
+- name: Osmind
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: osmind
+- name: Ossium Health
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: ossium-health
+- name: Ostium Labs
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: ostium-labs
+- name: Ostra Security
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: ostra-security
+- name: Overjet
+  source: https://www.generalcatalyst.com/portfolio
+  slug: overjet
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Pacific Fusion
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: pacific-fusion
+- name: Pallando Therapeutics
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: pallando-therapeutics
+- name: Pallet
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: pallet
+- name: Pantomath
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: pantomath
+- name: Parabilis Medicines
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: parabilis-medicines
+- name: Paradigm
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: paradigm
+- name: Paradigm Health
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: paradigm-health
+- name: Parallax
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: parallax
+- name: Parloa
+  source: https://www.generalcatalyst.com/portfolio
+  slug: parloa
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Path Ai
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: path-ai
+- name: Paydiant
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: paydiant
+- name: Payrails
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: payrails
+- name: Pb Health
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: pb-health
+- name: Pelico
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: pelico
+- name: Percent
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: percent
+- name: Perk
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: perk
+- name: Phare Health
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: phare-health
+- name: Physical Intelligence
+  source: https://www.generalcatalyst.com/portfolio
+  slug: physical-intelligence
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Physicsx
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: physicsx
+- name: Ping
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: ping
+- name: Pintarnya
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: pintarnya
+- name: Playstream
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: playstream
+- name: Please
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: please
+- name: Plume Health
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: plume-health
+- name: Podqi
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: podqi
+- name: Polimorphic
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: polimorphic
+- name: Polymarket
+  source: https://www.generalcatalyst.com/portfolio
+  slug: polymarket
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Ponto
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: ponto
+- name: Powerus
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: powerus
+- name: Prelay
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: prelay
+- name: Prepared
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: prepared
+- name: Prime Meridian
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: prime-meridian
+- name: Primus Senior Living
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: primus-senior-living
+- name: Pronto
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: pronto
+- name: Prosimo
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: prosimo
+- name: Prypco
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: prypco
+- name: Puzzle
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: puzzle
+- name: Pvx Partners
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: pvx-partners
+- name: Pylon
+  source: https://www.generalcatalyst.com/portfolio
+  slug: pylon
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Qfex
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: qfex
+- name: Quo
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: quo
+- name: R2
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: r2
+- name: Radial
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: radial
+- name: Rakuten
+  source: https://www.generalcatalyst.com/portfolio
+  slug: rakuten
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Ramain
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: ramain
 - name: Ramp
   url: https://ramp.com
   sector: fintech
@@ -890,6 +2625,27 @@ companies:
   in_network: true
   is_api_provider: true
   matched_by: domain
+- name: Ranger
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: ranger
+- name: Raphe Mphibr
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: raphe-mphibr
+- name: Rapyd
+  source: https://www.generalcatalyst.com/portfolio
+  slug: rapyd
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Rebag
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: rebag
 - name: Re:Build
   sector: enterprise
   status: active
@@ -897,6 +2653,74 @@ companies:
   in_network: false
   is_api_provider: false
   suggested_slug: re-build
+- name: Redesign Health
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: redesign-health
+- name: Refuel
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: refuel
+- name: Relativity Space
+  source: https://www.generalcatalyst.com/portfolio
+  slug: relativity-space
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Relay
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: relay
+- name: Remesh
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: remesh
+- name: Remnote
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: remnote
+- name: Remote
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: remote
+- name: Render
+  source: https://www.generalcatalyst.com/portfolio
+  slug: render
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Resilience
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: resilience
+- name: Reveal Imaging
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: reveal-imaging
+- name: Rezonant
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: rezonant
+- name: Ribbon Health
+  source: https://www.generalcatalyst.com/portfolio
+  slug: ribbon-health
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Rippl
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: rippl
 - name: Ro
   url: https://ro.co
   sector: healthcare
@@ -905,6 +2729,85 @@ companies:
   in_network: false
   is_api_provider: false
   suggested_slug: ro
+- name: Rossum
+  source: https://www.generalcatalyst.com/portfolio
+  slug: rossum
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Rox
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: rox
+- name: Rylo
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: rylo
+- name: Safari Ai
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: safari-ai
+- name: Sage Care
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: sage-care
+- name: Samara
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: samara
+- name: Samsara
+  source: https://www.generalcatalyst.com/portfolio
+  slug: samsara
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Sanas
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: sanas
+- name: Sapien
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: sapien
+- name: Saronic
+  source: https://www.generalcatalyst.com/portfolio
+  slug: saronic
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Saturn
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: saturn
+- name: Scalar
+  source: https://www.generalcatalyst.com/portfolio
+  slug: scalar
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Section
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: section
+- name: Semantic
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: semantic
+- name: Senra Systems
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: senra-systems
 - name: Serval
   sector: energy-infrastructure
   status: active
@@ -912,6 +2815,175 @@ companies:
   in_network: false
   is_api_provider: false
   suggested_slug: serval
+- name: Sesame
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: sesame
+- name: Shelf Engine
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: shelf-engine
+- name: Shift
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: shift
+- name: Shyft
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: shyft
+- name: Signal Advisors
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: signal-advisors
+- name: Singular
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: singular
+- name: Skild Ai
+  source: https://www.generalcatalyst.com/portfolio
+  slug: skild-ai
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Slate Auto
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: slate-auto
+- name: Sleeper
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: sleeper
+- name: Slide
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: slide
+- name: Smalt
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: smalt
+- name: Snackpass
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: snackpass
+- name: Snap
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: snap
+- name: Soff
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: soff
+- name: Somethings
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: somethings
+- name: Sonarsource
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: sonarsource
+- name: Sondermind
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: sondermind
+- name: Sora Id
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: sora-id
+- name: Sovryn
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: sovryn
+- name: Spectral
+  source: https://www.generalcatalyst.com/portfolio
+  slug: spectral
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Spinny
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: spinny
+- name: Spiral
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: spiral
+- name: Spring
+  source: https://www.generalcatalyst.com/portfolio
+  slug: spring
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Sprinter Health
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: sprinter-health
+- name: Stacks
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: stacks
+- name: Stan
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: stan
+- name: Standard Bots
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: standard-bots
+- name: Standard Kernel
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: standard-kernel
+- name: Step
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: step
+- name: Stilla
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: stilla
+- name: Stori
+  source: https://www.generalcatalyst.com/portfolio
+  slug: stori
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Story Health
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: story-health
+- name: Strawberry
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: strawberry
 - name: Stripe
   url: https://stripe.com
   sector: fintech
@@ -921,6 +2993,375 @@ companies:
   in_network: true
   is_api_provider: true
   matched_by: domain
+- name: Substack
+  source: https://www.generalcatalyst.com/portfolio
+  slug: substack
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Substrate
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: substrate
+- name: Summer
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: summer
+- name: Sunborne
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: sunborne
+- name: Super Evil
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: super-evil
+- name: Superplay
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: superplay
+- name: Supportlogic
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: supportlogic
+- name: Sword
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: sword
+- name: Symbolica
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: symbolica
+- name: Tabs
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: tabs
+- name: Tahoe
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: tahoe
+- name: Take Two
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: take-two
+- name: Talemonster Games
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: talemonster-games
+- name: Taurus
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: taurus
+- name: Teambridge
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: teambridge
+- name: Teamworks
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: teamworks
+- name: Telltail
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: telltail
+- name: Tempo
+  source: https://www.generalcatalyst.com/portfolio
+  slug: tempo
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Tempus Ex
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: tempus-ex
+- name: Tendo Systems
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: tendo-systems
+- name: Tensixty Bio
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: tensixty-bio
+- name: Terragia
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: terragia
+- name: Thatch
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: thatch
+- name: The Interaction Company Of California
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: the-interaction-company-of-california
+- name: The Predictive Index
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: the-predictive-index
+- name: Thoughtspot
+  source: https://www.generalcatalyst.com/portfolio
+  slug: thoughtspot
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Tidelift
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: tidelift
+- name: Tigris
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: tigris
+- name: Titan
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: titan
+- name: Titan Invest
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: titan-invest
+- name: Tiyaro
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: tiyaro
+- name: Together Ai
+  source: https://www.generalcatalyst.com/portfolio
+  slug: together-ai
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Tractian
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: tractian
+- name: Transcarent
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: transcarent
+- name: Trellis
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: trellis
+- name: Triomics
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: triomics
+- name: Tristero
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: tristero
+- name: Triumph
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: triumph
+- name: Truvian
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: truvian
+- name: Twenty
+  source: https://www.generalcatalyst.com/portfolio
+  slug: twenty
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Uni
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: uni
+- name: Universe
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: universe
+- name: Uno Health
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: uno-health
+- name: Upside
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: upside
+- name: Valerie Health
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: valerie-health
+- name: Valinor
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: valinor
+- name: Vannevar
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: vannevar
+- name: Varda
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: varda
+- name: Variant Bio
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: variant-bio
+- name: Veho Tech
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: veho-tech
+- name: Vercel
+  source: https://www.generalcatalyst.com/portfolio
+  slug: vercel
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Verkada
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: verkada
+- name: Verta
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: verta
+- name: Vial
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: vial
+- name: Visor
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: visor
+- name: Vital Lyfe
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: vital-lyfe
+- name: Viva Translate
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: viva-translate
+- name: Vivere
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: vivere
+- name: Vroom
+  source: https://www.generalcatalyst.com/portfolio
+  slug: vroom
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Vulcan Technologies
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: vulcan-technologies
+- name: Wag
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: wag
+- name: Warby Parker
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: warby-parker
+- name: Well
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: well
+- name: Welltheory
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: welltheory
+- name: Windsurf
+  source: https://www.generalcatalyst.com/portfolio
+  slug: windsurf
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Wonder
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: wonder
+- name: Wordsmith
+  source: https://www.generalcatalyst.com/portfolio
+  slug: wordsmith
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Xflow
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: xflow
+- name: Yuzu Health
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: yuzu-health
+- name: Zageno
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: zageno
+- name: Zarminali Health
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: zarminali-health
+- name: Zego
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: zego
 - name: Zepto
   url: https://www.zeptonow.com
   sector: consumer
@@ -929,3 +3370,28 @@ companies:
   in_network: false
   is_api_provider: false
   suggested_slug: zepto
+- name: Zerigo
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: zerigo
+- name: Zero Rfi
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: zero-rfi
+- name: Zet
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: zet
+- name: Zip Security
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: zip-security
+- name: Zorus
+  source: https://www.generalcatalyst.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: zorus
