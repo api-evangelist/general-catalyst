@@ -16,6 +16,17 @@ description: >-
   personalize core societal services. Notable investments include Airbnb,
   Stripe, Anthropic, Canva, HubSpot, Ramp, Anduril, Applied Intuition, Samsara,
   Mistral, Helsing, Hippocratic AI, and Mercor.
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 image: https://logo.clearbit.com/generalcatalyst.com
 x-type: venture-capital
 x-category: Venture Capital
